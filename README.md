@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elder Memory Keeper
 
 A simple, large-text medicine reminder app for elderly users.
@@ -84,3 +85,7 @@ adb install -r android/app/build/outputs/apk/debug/app-debug.apk
 4. In the app, Settings → Server address → `http://<laptop-ip>:8000` → Save.
 
 If the server is not reachable the app keeps working on demo data.
+=======
+# Elder-Memory-Keeper
+Elder Memory Keeper – Medicine &amp; Memory Management System
+>>>>>>> 85e659ffbabf36dd87fd8c226d7b84407e8d2165
