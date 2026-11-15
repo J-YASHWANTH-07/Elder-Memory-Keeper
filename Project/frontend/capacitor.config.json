@@ -1,0 +1,9 @@
+{
+  "appId": "com.elder.memorykeeper",
+  "appName": "Elder Memory Keeper",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}

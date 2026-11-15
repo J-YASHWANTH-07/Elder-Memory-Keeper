@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Elder Memory Keeper</string>
+    <string name="title_activity_main">Elder Memory Keeper</string>
+    <string name="package_name">com.elder.memorykeeper</string>
+    <string name="custom_url_scheme">com.elder.memorykeeper</string>
+</resources>
